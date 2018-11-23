@@ -28,6 +28,14 @@ To test the network , pleasee use test.py.  For more detail, type:
 python test.py --help
 ```
 
+## Demo
+
+Demo of Gray Image to Color Image uses Image Transaltion via Supervised Conditional GAN
+
+
+
+[![Demo](https://github.com/truongthanhdat/CondGAN/raw/master/figures/title.png)](https://youtu.be/ki45TWttFVE)
+
 
 ## Author
 Thanh-Dat Truong,
