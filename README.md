@@ -30,7 +30,7 @@ python test.py --help
 
 ## Demo
 
-Demo of Gray Image to Color Image uses Image Transaltion via Supervised Conditional GAN
+Demo of Gray Image to Color Image uses Image Translation via Supervised Conditional GAN
 
 
 
