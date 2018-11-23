@@ -39,5 +39,7 @@ Demo of Gray Image to Color Image uses Image Transaltion via Supervised Conditio
 
 ## Author
 Thanh-Dat Truong,
+
 University of Science, VNU-HCM
+
 Email: ttdat@selab.hcmus.edu.vn
